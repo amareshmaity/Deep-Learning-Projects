@@ -1,3 +1,4 @@
 *.docx
 *.pdf
 churn_venv
+rnn_venv
